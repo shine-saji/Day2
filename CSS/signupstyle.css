@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+ background-image: url(../Images/HD/bgnd3.jpg);
+ background-size: cover;
+}
+
+form{
+
+     background-image: url(../Images/HD/tree.jpg); 
+     background-size: cover; 
+    /* background-color:orange;  */
+    padding: 1em;
+    margin-left: 30em;
+    margin-top: 5em;
+    line-height: 2em;
+    /* border: 2px solid black; */
+    
+}
+
+
+
+label{
+    color:darkblue;
+}
+.signupbtn{
+    /*border: red 2px solid;*/
+    line-height: 5em;
+}
+
+#error_m{
+    font-size: 10px;
+    font-family: cursive;
+    font-weight: bolder;
+   
+}
+#error_n{
+    font-size: 10px;
+    font-family: cursive;
+    font-weight: bolder;
+
+   
+}
+#error_p{
+ 
+    font-size: 10px;
+    font-family: cursive;
+    font-weight: bolder;
+
+}
+
+#strength1{
+    width:32%;
+    /* border: solid 2px red; */
+    /* background-color:red; */
+}
+#strength2{
+    width:32%;
+    
+}
+#strength3{
+    width:32%;
+    
+}
+
+#comment{
+    font-size: 10px;
+    font-family: cursive;
+    font-weight: bolder;
+    color:red;
+}
+
+#error_pwd{
+    font-size: 10px;
+    font-family: cursive;
+    font-weight: bolder;
+    color:red;
+}
